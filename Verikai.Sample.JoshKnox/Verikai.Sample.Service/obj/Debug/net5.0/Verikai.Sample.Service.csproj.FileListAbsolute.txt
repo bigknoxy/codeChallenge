@@ -1,0 +1,14 @@
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\obj\Debug\net5.0\Verikai.Sample.Service.csproj.AssemblyReference.cache
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\obj\Debug\net5.0\Verikai.Sample.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\obj\Debug\net5.0\Verikai.Sample.Service.AssemblyInfoInputs.cache
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\obj\Debug\net5.0\Verikai.Sample.Service.AssemblyInfo.cs
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\obj\Debug\net5.0\Verikai.Sample.Service.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\bin\Debug\net5.0\Verikai.Sample.Service.deps.json
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\bin\Debug\net5.0\Verikai.Sample.Service.dll
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\bin\Debug\net5.0\ref\Verikai.Sample.Service.dll
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\bin\Debug\net5.0\Verikai.Sample.Service.pdb
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\obj\Debug\net5.0\Verikai.Sample.Service.dll
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\obj\Debug\net5.0\ref\Verikai.Sample.Service.dll
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\obj\Debug\net5.0\Verikai.Sample.Service.pdb
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\bin\Debug\net5.0\class-to-cost.csv
+C:\Users\Josh\source\repos\Verikai.Sample.JoshKnox\Verikai.Sample.Service\bin\Debug\net5.0\zip3-to-class.csv
